@@ -43,6 +43,11 @@ To do this, we will need two arrays of additional memory with (n-1)*$2^{(n-1)}$ 
 
 For the runtime and computational complexity, we will have O((n-1)*$2^{(n-1)}$).
 
+To run code with data in create_data/data.json file you need to type:
+```
+python3 part1.py
+```
+
 For 11 cities code execution took 10 ms, here is the output:
 ```
 time taken in ms: 9.94253158569336
